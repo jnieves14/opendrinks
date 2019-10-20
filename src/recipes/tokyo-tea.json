@@ -1,0 +1,57 @@
+{
+    "name": "Tokyo Tea",
+    "description": "A cousin to the American Long Island Iced Tea, the Toyko Tea is uniquely refreshing with its signature ",
+    "github": "jnieves14",
+    "ingredients": [
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "tequila"
+        },
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "rum"
+        },
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "gin"
+        },
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "vodka"
+        },
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "triple sec"
+        },
+        {
+            "quantity": "1/2 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "melon liqour"
+        },
+        {
+            "quantity": "1 oz",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "sweet n sour mix"
+        },
+        {
+            "quantity": "1 spalsh",
+            "measure": "<type of measure (oz, cup, teaspoon)>",
+            "ingredient": "soda water"
+        }
+    ],
+    "directions": [
+        "Step 1: Add all ingredients into a highball glass with ice and stir.",
+        "Garnish with a lemon wheel and maraschino cherry."
+    ],
+    "image": "https://cdn.liquor.com/wp-content/uploads/2019/07/12151422/tokyo-tea-720x720-recipe.jpg",
+    "source": "https://www.liquor.com/recipes/tokyo-tea/#gs.becjy3",
+    "keywords": [
+        "Cocktail Type: Modern Classics",
+        "Simple"
+    ]
+}
